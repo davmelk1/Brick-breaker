@@ -3,7 +3,7 @@
 sf::Texture Background::texture;
 
 Background::Background(float x, float y) {
-    bool success = texture.loadFromFile("/home/davit/Documents/SFML/final_project/images.jpeg");
+    bool success = texture.loadFromFile("images.jpeg");
 
     if (!success) {
         std::cerr << "No background image\n";
