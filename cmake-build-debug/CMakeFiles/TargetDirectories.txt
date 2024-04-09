@@ -1,0 +1,5 @@
+/home/davit/Documents/SFML/final_project/cmake-build-debug/CMakeFiles/myLibrary.dir
+/home/davit/Documents/SFML/final_project/cmake-build-debug/CMakeFiles/main.dir
+/home/davit/Documents/SFML/final_project/cmake-build-debug/CMakeFiles/random_walker_graphics.dir
+/home/davit/Documents/SFML/final_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/davit/Documents/SFML/final_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
